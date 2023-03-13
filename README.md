@@ -16,4 +16,5 @@ The app is simple to use and provides users with the following features:
 - CSS
 - JavaScript
 - RapidAPI's Weather API
+## Screenshot
 ![My Weather App png](https://user-images.githubusercontent.com/116058870/224823589-976d86e0-11bc-4e80-adea-9b62943caaa9.png)
