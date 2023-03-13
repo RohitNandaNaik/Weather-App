@@ -1,0 +1,52 @@
+body{
+    background-image: url(src/bg.webp);
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+.navbar{
+    background: transparent;
+    background-color: black;
+}
+
+    .card {
+       
+background: rgba(255, 255, 255, 0.144);
+border-radius: 16px;
+box-shadow: 0 4px 30px rgba(0, 0, 0, 0.1);
+backdrop-filter: blur(7.6px);
+-webkit-backdrop-filter: blur(7.6px);
+    }
+
+
+.border-primary{
+    color: rgb(0, 0, 0);
+}
+
+
+
+.fw-normal{
+    background-color: rgb(245, 242, 242);
+    color: black;
+}
+
+.display-6{
+    color: white;font-size: xxx-large;
+
+}
+.my-4 {
+    color: white;
+}
+
+.navbar-spacing{
+    display: flex;
+    justify-content: space-between;
+}
+#navbarSupportedContent{
+    margin-left: 65vw;
+}
+
+.my-0{
+    border-radius: 30px;
+    padding: 10px 0;
+}
